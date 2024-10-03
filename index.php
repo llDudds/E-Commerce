@@ -6,6 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <form action="./src/carrinho.php" method="post">
+        <input type="submit" value="teste">
+
+        
+    </form>
 </body>
 </html>
